@@ -93,4 +93,5 @@ prob_29_correct_28_false = (prob_precipitation * precipitation_accuracy_old) + (
 prob_29_correct = (prob_28_correct * prob_29_correct_28_correct) + ((1 - prob_28_correct) * prob_29_correct_28_false)
 
 prob_28_correct_29 = (prob_29_correct_28_correct * prob_28_correct) / prob_29_correct
+prob_28_correct_29
 ```
