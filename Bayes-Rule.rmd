@@ -37,3 +37,7 @@ round(correct_forecast)
 
 ## Question 2
 ### If Channel 3000 predicts precipitation in Madison, what is the likelihood that there is actually precipitation?
+
+```{r channel_3000_precipitation_pred}
+
+```
