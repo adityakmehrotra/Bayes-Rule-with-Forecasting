@@ -45,3 +45,6 @@ pred_precipitation = ((precipitation_days / 365) * precipitation_correct_odds) /
 
 pred_precipitation
 ```
+
+#### Math
+Precipiation Prediction = (115/365) * 0.93 + (250/365) * 0.13
