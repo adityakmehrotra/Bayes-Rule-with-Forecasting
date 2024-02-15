@@ -9,5 +9,8 @@ Let's assume that Madison, Wisconsin gets about 115 days of precipitation per ye
 
 ## Question: How many days will Channel 3000 correctly forecast in a non-leap year (365 days)
 
+### Answer
+
+
 ### Last Updated
 02/15/2024
