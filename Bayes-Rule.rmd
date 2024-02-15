@@ -31,3 +31,7 @@ nothing_days = 365 - precipitation_days
 correct_forecast = (precipitation_days * precipitation_correct_odds) + (nothing_days * nothing_correct_odds)
 round(correct_forecast)
 ```
+
+#### Math
+(Odds Correct for Precipitation) * (Days there is Precipitation) + (Odds Correct for Non-Precipitation) * (Days there is No Precipitation)
+
