@@ -43,7 +43,7 @@ Correct Forecast = (Odds Correct for Precipitation) * (Days there is Precipitati
 Correct Forecast = (0.93) * (115) + (0.87) * (250)
 
 #### Answer
-- Correct Forecast = 324 Days
+Correct Forecast = 324 Days
 
 ## Question 2
 ### If Channel 3000 predicts precipitation in Madison, what is the likelihood that there is actually precipitation?
@@ -67,5 +67,8 @@ Precipitation Prediction = (((Days of Precipitation) / (Total Days in a Year)) *
 
 Precipitation Prediction = (115/365) * 0.93 + (250/365) * 0.13
 
-#### Answer
+#### Bayes Rule
+P(Rain|Forecast Rain) = (P(Forecast Rain|Rain) * P(Rain)) / (P(Forecast Rain))
 
+#### Answer
+Precipitation Prediction = 76.69%
