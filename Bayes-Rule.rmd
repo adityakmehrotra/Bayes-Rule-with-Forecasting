@@ -33,7 +33,11 @@ round(correct_forecast)
 ```
 
 #### Math
-(Odds Correct for Precipitation) * (Days there is Precipitation) + (Odds Correct for Non-Precipitation) * (Days there is No Precipitation)
+- Correct Forecast = (Odds Correct for Precipitation) * (Days there is Precipitation) + (Odds Correct for Non-Precipitation) * (Days there is No Precipitation)
+- Correct Forecast = (0.93) * (115) + (0.87) * (250)
+
+#### Answer
+- Correct Forecast = 324 Days
 
 ## Question 2
 ### If Channel 3000 predicts precipitation in Madison, what is the likelihood that there is actually precipitation?
@@ -54,6 +58,5 @@ Precipitation Prediction = (((Days of Precipitation) / (Total Days in a Year)) *
 - Odds of Correct Prediction of Precipitation = 0.93
 - Days of No Precipitation = 365 - Days of Precipitation = 365 - 115 = 250
 - (1 - Odds of Correct Prediction of No Precipitation) = (1 - 0.87) = 0.13
-
 
 Precipitation Prediction = (115/365) * 0.93 + (250/365) * 0.13
