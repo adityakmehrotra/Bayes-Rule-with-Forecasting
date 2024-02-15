@@ -66,3 +66,6 @@ Precipitation Prediction = (((Days of Precipitation) / (Total Days in a Year)) *
 - (1 - Odds of Correct Prediction of No Precipitation) = (1 - 0.87) = 0.13
 
 Precipitation Prediction = (115/365) * 0.93 + (250/365) * 0.13
+
+#### Answer
+
