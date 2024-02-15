@@ -1,1 +1,15 @@
+---
+title: "Using Bayes Rule with Forecasting"
+author: "Aditya Mehrotra"
+date: "2024-02-14"
+output: html_document
+---
 
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE,
+                      error = TRUE, fig.height = 4)
+library(tidyverse)
+library(lubridate)
+```
+
+## Overview
