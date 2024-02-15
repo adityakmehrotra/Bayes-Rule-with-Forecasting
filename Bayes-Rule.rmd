@@ -36,8 +36,9 @@ round(correct_forecast)
 Correct Forecast = (Odds Correct for Precipitation) * (Days there is Precipitation) + (Odds Correct for Non-Precipitation) * (Days there is No Precipitation)
 
 - Odds Correct for Precipitation = 0.93
+- Days there is Precipitation = 115
 
-- Correct Forecast = (0.93) * (115) + (0.87) * (250)
+Correct Forecast = (0.93) * (115) + (0.87) * (250)
 
 #### Answer
 - Correct Forecast = 324 Days
