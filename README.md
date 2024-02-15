@@ -15,6 +15,7 @@ Correct Precipitation Prediction: $`(Odds Correct for Precipitation) * (Days the
 Correct No Precipitation Prediction: $`(Odds Correct for Non-Precipitation) * (Days there is No Precipitation)`$ = 218 (217.5)
 
 $`Correct Prediction = (Correct Precipitation Prediction) + (Correct No Precipitation Prediction)`$
+
 Correct Prediction = 107 + 218 = 325 Days
 
 ### Last Updated
