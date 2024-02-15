@@ -10,13 +10,9 @@ Let's assume that Madison, Wisconsin gets about 115 days of precipitation per ye
 ## Question: How many days will Channel 3000 correctly forecast in a non-leap year (365 days)
 
 ### Answer:
-Correct Precipitation Prediction: $`(Odds Correct for Precipitation) * (Days there is Precipitation)`$
+Correct Precipitation Prediction: $`(Odds Correct for Precipitation) * (Days there is Precipitation)`$ = 107 (106.95)
 
-Correct Precipitation Prediction = 107 (106.95)
-
-Correct No Precipitation Prediction: $`(Odds Correct for Non-Precipitation) * (Days there is No Precipitation)`$
-
-Correct No Precipitation Prediction = 218 (217.5)
+Correct No Precipitation Prediction: $`(Odds Correct for Non-Precipitation) * (Days there is No Precipitation)`$ = 218 (217.5)
 
 $`Correct Prediction = (Correct Precipitation Prediction) + (Correct No Precipitation Prediction)`$
 Correct Prediction = 107 + 218 = 325 Days
