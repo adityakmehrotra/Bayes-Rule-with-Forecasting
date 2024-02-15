@@ -33,7 +33,10 @@ round(correct_forecast)
 ```
 
 #### Math
-- Correct Forecast = (Odds Correct for Precipitation) * (Days there is Precipitation) + (Odds Correct for Non-Precipitation) * (Days there is No Precipitation)
+Correct Forecast = (Odds Correct for Precipitation) * (Days there is Precipitation) + (Odds Correct for Non-Precipitation) * (Days there is No Precipitation)
+
+- Odds Correct for Precipitation = 0.93
+
 - Correct Forecast = (0.93) * (115) + (0.87) * (250)
 
 #### Answer
