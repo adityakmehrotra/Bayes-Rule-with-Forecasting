@@ -88,4 +88,5 @@ no_precipitation_accuracy_old = 0.87
 
 prob_28_correct = (prob_precipitation * precipitation_accuracy_old) + (prob_no_precipitation * no_precipitation_accuracy_old)
 prob_29_correct_28_correct = (prob_precipitation * precipitation_accuracy_new) + (prob_no_precipitation * no_precipitation_accuracy_new)
+prob_29_correct_28_false = (prob_precipitation * precipitation_accuracy_old) + (prob_no_precipitation * no_precipitation_accuracy_old)
 ```
