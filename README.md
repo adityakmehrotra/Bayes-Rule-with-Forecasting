@@ -11,9 +11,10 @@ Let's assume that Madison, Wisconsin gets about 115 days of precipitation per ye
 
 ### Answer:
 Correct Precipitation Prediction: $`(Odds Correct for Precipitation) * (Days there is Precipitation)`$
+
 Correct No Precipitation Prediction: $`(Odds Correct for Non-Precipitation) * (Days there is No Precipitation)`$
 
-$`Correct Prediction = (Odds Correct for Precipitation) * (Days there is Precipitation) + (Odds Correct for Non-Precipitation) * (Days there is No Precipitation)`$
+$`Correct Prediction = (Correct Precipitation Prediction) + (Correct No Precipitation Prediction)`$
 
 ### Last Updated
 02/15/2024
