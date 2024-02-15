@@ -53,7 +53,7 @@ Precipitation Prediction = (((Days of Precipitation) / (Total Days in a Year)) *
 - Total Days in a Year = 365
 - Odds of Correct Prediction of Precipitation = 0.93
 - Days of No Precipitation = 365 - Days of Precipitation = 365 - 115 = 250
-- 1 - Odds of Correct Prediction of No Precipitation
+- (1 - Odds of Correct Prediction of No Precipitation) = (1 - 0.87) = 0.13
 
 
 Precipitation Prediction = (115/365) * 0.93 + (250/365) * 0.13
