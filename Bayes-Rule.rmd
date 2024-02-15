@@ -79,4 +79,10 @@ Let's assume that the Channel 3000 forecast was correct yesterday. This increase
 ```{r}
 prob_precipitation = 115 / 365
 prob_no_precipitation = 1 - prob_precipitation
+
+precipitation_accuracy_new = 0.98
+no_precipitation_accuracy_new = 0.92
+
+precipitation_accuracy_old = 0.93
+no_precipitation_accuracy_old = 0.87
 ```
