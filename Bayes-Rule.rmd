@@ -38,6 +38,7 @@ Correct Forecast = (Odds Correct for Precipitation) * (Days there is Precipitati
 - Odds Correct for Precipitation = 0.93
 - Days there is Precipitation = 115
 - Odds Correct for Non-Precipitation = 0.87
+- Days there is No Precipitation = 250
 
 Correct Forecast = (0.93) * (115) + (0.87) * (250)
 
