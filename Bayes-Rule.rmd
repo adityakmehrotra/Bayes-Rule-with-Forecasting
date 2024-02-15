@@ -39,5 +39,9 @@ round(correct_forecast)
 ### If Channel 3000 predicts precipitation in Madison, what is the likelihood that there is actually precipitation?
 
 ```{r channel_3000_precipitation_pred}
+forecast_pred_precipitation = ((precipitation_days / 365) * precipitation_correct_odds) + ((nothing_days / 365) * (1 - nothing_correct_odds))
 
+pred_precipitation = ((precipitation_days / 365) * precipitation_correct_odds) / forecast_pred_precipitation
+
+pred_precipitation
 ```
