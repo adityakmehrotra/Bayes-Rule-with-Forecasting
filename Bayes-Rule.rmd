@@ -14,3 +14,6 @@ library(lubridate)
 
 ## Overview
 -- The following document will use R to implement the Bayes Rule with Forecasting on a given Situation
+
+## Situation
+
