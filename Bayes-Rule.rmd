@@ -35,3 +35,5 @@ round(correct_forecast)
 #### Math
 (Odds Correct for Precipitation) * (Days there is Precipitation) + (Odds Correct for Non-Precipitation) * (Days there is No Precipitation)
 
+## Question 2
+### If Channel 3000 predicts precipitation in Madison, what is the likelihood that there is actually precipitation?
