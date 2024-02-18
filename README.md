@@ -45,7 +45,7 @@ $`P(A|B) = (P(B|A) * P(A)) / P(B)`$
   - 93.89% = 0.9389
 - $`P(A)`$: Probability of Channel 3000's forecast being corrent on January 28th
   - 88.89% = 0.8889
-- P(B):
+- P(B): Probability of Channel 3000's forecast being correct on January 29th
   - 
 
 
