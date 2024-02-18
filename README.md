@@ -41,6 +41,8 @@ $`P(Rain|Forecast Rain) = (P(Forecast Rain|Rain) * P(Rain)) / (P(Forecast Rain))
 
 $`P(A|B) = (P(B|A) * P(A)) / P(B)`$
 
+- P(B|A)
+
 
 ### Last Updated
 02/18/2024
