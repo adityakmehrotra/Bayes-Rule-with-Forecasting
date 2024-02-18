@@ -26,7 +26,7 @@ $`P(Rain|Forecast Rain) = (P(Forecast Rain|Rain) * P(Rain)) / (P(Forecast Rain))
 
 - $`P(Forecast Rain|Rain)`$: The probability of the Channel 3000 forecast to predict it rain, and be correct
   - 93% = 0.93
-- P(Rain): The probability of it to rain
+- $`P(Rain)`$: The probability of it to rain
   - 31.51% = 0.31506
 - P(Forecast Rain):
   - 38.21% = 0.38205
