@@ -1,5 +1,5 @@
 # Bayes-Rule-with-Forecasting
-Using R to implement Bayes Rule with Forecasting.
+Using R to implement Bayes Rule with Forecasting. I will be implementing Bayes Rule on an example situation.
 
 ## Overview
 The following document will use R to implement the Bayes Rule with Forecasting on a given Situation
