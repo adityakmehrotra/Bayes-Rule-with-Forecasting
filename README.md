@@ -41,7 +41,7 @@ $`P(Rain|Forecast Rain) = (P(Forecast Rain|Rain) * P(Rain)) / (P(Forecast Rain))
 
 $`P(A|B) = (P(B|A) * P(A)) / P(B)`$
 
-- P(B|A): 
+- P(B|A): Probability of Channel 3000's forecast being correct on January 29th given that Channel 3000's forecast on January 28th was correct
   - 93.89% = 0.9389
 
 
