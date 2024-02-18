@@ -25,6 +25,8 @@ Correct Prediction = 107 + 218 = 325 Days
 $`P(Rain|Forecast Rain) = (P(Forecast Rain|Rain) * P(Rain)) / (P(Forecast Rain))`$
 
 - P(Rain|Forecast Rain): The probability of it to Rain after Channel 3000 forecasted it to rain
+  - 93% = 0.93
+- 
 
 
 
