@@ -30,7 +30,8 @@ $`P(Rain|Forecast Rain) = (P(Forecast Rain|Rain) * P(Rain)) / (P(Forecast Rain))
   - 93% = 0.93
 - P(Rain): The probability of it to rain
   - 31.51% = 0.31506
-
+- P(Forecast Rain):
+  - 38.21% = 0.38205
 
 
 ## Question: Let's assume that the Channel 3000 forecast was correct yesterday. This increases the likelihood of Channel 3000's forecast for today. Specifically, if the forecast was correct yesterday, then the probability of Channel 3000 accurately predicts if there is precipitation 93% of the time, and 87% of the time when there is no precipitation. If the forecast was correct on January 29th, what is the probability it was correct on January 28th? Assume that the forecast was incorrect on the 27th.
